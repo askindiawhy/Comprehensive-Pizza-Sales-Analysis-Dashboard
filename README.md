@@ -9,8 +9,11 @@ Power BI Report: The core of this project is the Power BI report, which contains
 **Insights:**
 
 **Sales Trends:** Analysis of how sales vary across different periods (e.g., daily, weekly, monthly), highlighting peak sales times and potential areas for optimization.
+
 **Top-Selling Pizzas**: Identification of the most popular pizzas based on sales volume, helping to understand customer preferences.
+
 **Customer Segmentation**: Insights into different customer groups based on demographics and purchasing behavior, allowing for targeted marketing strategies.
+
 **Performance Metrics**: Evaluation of key performance indicators (KPIs) such as total revenue, average order value, and customer lifetime value.
 
 Getting Started
